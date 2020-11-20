@@ -14,10 +14,10 @@
         <v-list class="pa-0">
           <v-list-tile avatar>
             <v-list-tile-avatar>
-              <img src="../assets/2.jpeg">
+              <img src="../assets/2.jpg">
             </v-list-tile-avatar>
             <v-list-tile-content>
-              <v-list-tile-title>虎哥</v-list-tile-title>
+              <v-list-tile-title>宇哥</v-list-tile-title>
             </v-list-tile-content>
           </v-list-tile>
         </v-list>
@@ -106,7 +106,7 @@
         dark: false,// 是否暗黑主题
         drawer: true,// 左侧导航是否隐藏
         miniVariant: false,// 左侧导航是否收起
-        title: '乐优商城后台管理',// 顶部导航条名称,
+        title: '流星商城后台管理',// 顶部导航条名称,
         menuMap:{}
       }
     },
